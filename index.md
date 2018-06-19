@@ -1,3 +1,6 @@
-title:hello
-Description: hello2
-More
+---
+title: This is my title
+layout: post
+---
+
+Hello World
